@@ -4,6 +4,7 @@ Intern project - Helium based weight scale
 * [Welcome](#welcome)
 * [Getting Started](#getting-started)
 * [Technologies](#technologies)
+* [Running the Code](#running-the-code)
 * [Credits](#credits)
 
 
@@ -47,7 +48,7 @@ The decoder.js file is the decoder to be used in the Helium Console application.
 
 The payload_parser.js file is the parser that Tago.io uses for data display
 
-To run the code provided in the Arduino IDE you must first upload the file onto the board, which can be done by clicking on the arrow in the top left corner or by shortcutting cntrl + shift + u
+To run the code provided in the Arduino IDE you must first upload the file onto the board, which can be done by clicking on the arrow in the top left corner or by shortcutting ctrl + shift + u
 
 The code provided also allows for the user to monitor the weight that is obtained in real time through the serial monitor. To display an organized list of data through the serial monitor:
 
