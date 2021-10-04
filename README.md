@@ -16,6 +16,8 @@ Developed during an internship with Parley Labs.
 To get started on setting up the overall project, please follow the Hackster.io link for the complete instructions:
 https://www.hackster.io/422272/lorawan-scale-b5e2c4
 
+Please follow https://learn.sparkfun.com/tutorials/qwiic-scale-hookup-guide#introduction for the complete hardware setup of the scale.
+
 This repository includes the complete and functional code for obtaining scale data along with the code to 
 transmit the data. Additionally, a decoder file has been provided.
 
